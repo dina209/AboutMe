@@ -12,3 +12,4 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Seaborn, Plotly
 Tableau
 
 #### [My Repositories:](https://github.com/dina209/Data_Analyst_Projects "Заголовок ссылки")
+https://github.com/dina209/Data_Analyst_Projects
